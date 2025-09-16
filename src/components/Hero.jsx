@@ -17,8 +17,9 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-blue-100 mb-8 max-w-4xl mx-auto">
-            Transforming lives with real-time weather intelligence from space
-          </p>
+  Transforming lives with real-time weather intelligence from space
+</p>
+
           
           <p className="text-lg text-blue-200 mb-12 max-w-3xl mx-auto">
             Empowering farmers, defense, logistics, and communities with hyperlocal weather data 
